@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "00TnQeF7muNzlMYi1Vb5XZPRH0oWDh/kJbL8OdDzOXs27beC1y4kE2MV++2nXhF1KnED6XsQ9GZcr3XPPUfsmQ==",
-  "success": false,
-  "projectFilePath": "C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\NailTechHelper.EFCoreFramework\\NailTechHelper.EFCoreFramework.csproj",
+  "dgSpecHash": "ESlUTtVUdPbh8+x7Z4Qd8Iibm4En8Z5RJcRwJBHoW6pqOaaP6feUDgBDtgYzWYa3WCcjr62gO9y7mLmxAO7nUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hang2\\source\\repos\\NailTechHelperCloneFromGitHub\\NailTechHelper.EFCoreFramework\\NailTechHelper.EFCoreFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hang2\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\hang2\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
@@ -105,15 +105,5 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\hang2\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\Data\\NailTechHelper.Data.Persistence\\NailTechHelper.Data.Persistence.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\Data\\NailTechHelper.Data.Persistence\\NailTechHelper.Data.Persistence.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }
