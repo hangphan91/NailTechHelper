@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "b+ixZKhQ18rvlTBbULyPSUT1mkHPR2G0qbrlfDdLNjHtV8KA/3w9oRcHxLvaRTopXyW3sNDhL4CUp0KUvNm4Tg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\NailTechHelper.BusinessManager\\NailTechHelper.BusinessManager.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\Data\\NailTechHelper.Data.Persistence\\NailTechHelper.Data.Persistence.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\Data\\NailTechHelper.Data.Persistence\\NailTechHelper.Data.Persistence.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
