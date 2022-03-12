@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{4C958919-F4B6-4ABE-AA6C-24F43914DAC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NailTechHelper.EFCoreFramework", "NailTechHelper.EFCoreFramework\NailTechHelper.EFCoreFramework.csproj", "{0ED04E3C-F98C-4433-A8F3-A269A36365A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NailTechHelper.Data.Persistence", "Data\NailTechHelper.Data.Persistence\NailTechHelper.Data.Persistence.csproj", "{F01B0B8C-37C1-4A92-9338-310D1CF678AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NailTechHelper.Data.Definitions", "Data\NailTechHelper.Data.Definitions\NailTechHelper.Data.Definitions.csproj", "{90577304-1140-4B38-A2A1-121599AE6054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NailTechHelper.BusinessManager", "NailTechHelper.BusinessManager\NailTechHelper.BusinessManager.csproj", "{CC80547C-60EB-47A6-A14E-DA18127EBFD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NailTechHelper.BeautySalonBusiness.Web-Api", "NailTechHelper.BeautySalonBusiness.Web-Api\NailTechHelper.BeautySalonBusiness.Web-Api.csproj", "{9264AAD3-D878-4D23-98DB-81C2F7530638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ED04E3C-F98C-4433-A8F3-A269A36365A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED04E3C-F98C-4433-A8F3-A269A36365A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED04E3C-F98C-4433-A8F3-A269A36365A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED04E3C-F98C-4433-A8F3-A269A36365A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01B0B8C-37C1-4A92-9338-310D1CF678AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01B0B8C-37C1-4A92-9338-310D1CF678AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01B0B8C-37C1-4A92-9338-310D1CF678AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01B0B8C-37C1-4A92-9338-310D1CF678AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90577304-1140-4B38-A2A1-121599AE6054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90577304-1140-4B38-A2A1-121599AE6054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90577304-1140-4B38-A2A1-121599AE6054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90577304-1140-4B38-A2A1-121599AE6054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC80547C-60EB-47A6-A14E-DA18127EBFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC80547C-60EB-47A6-A14E-DA18127EBFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC80547C-60EB-47A6-A14E-DA18127EBFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC80547C-60EB-47A6-A14E-DA18127EBFD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9264AAD3-D878-4D23-98DB-81C2F7530638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9264AAD3-D878-4D23-98DB-81C2F7530638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9264AAD3-D878-4D23-98DB-81C2F7530638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9264AAD3-D878-4D23-98DB-81C2F7530638}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F01B0B8C-37C1-4A92-9338-310D1CF678AF} = {4C958919-F4B6-4ABE-AA6C-24F43914DAC8}
+		{90577304-1140-4B38-A2A1-121599AE6054} = {4C958919-F4B6-4ABE-AA6C-24F43914DAC8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F904B7-AFAE-4D8D-8A31-F7D550E7D544}
+	EndGlobalSection
+EndGlobal
