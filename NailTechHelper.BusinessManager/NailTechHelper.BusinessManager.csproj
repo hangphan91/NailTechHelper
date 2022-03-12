@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Data\NailTechHelper.Data.Definitions\NailTechHelper.Data.Definitions.csproj" />
+    <ProjectReference Include="..\Data\NailTechHelper.Data.Persistence\NailTechHelper.Data.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
