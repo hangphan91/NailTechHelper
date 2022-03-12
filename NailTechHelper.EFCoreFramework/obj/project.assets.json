@@ -1495,6 +1495,36 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "NailTechHelper.Data.Definitions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/NailTechHelper.Data.Definitions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NailTechHelper.Data.Definitions.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "NailTechHelper.Data.Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.23",
+          "NailTechHelper.Data.Definitions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NailTechHelper.Data.Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NailTechHelper.Data.Persistence.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -5696,13 +5726,23 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "NailTechHelper.Data.Definitions/1.0.0": {
+      "type": "project",
+      "path": "../Data/NailTechHelper.Data.Definitions/NailTechHelper.Data.Definitions.csproj",
+      "msbuildProject": "../Data/NailTechHelper.Data.Definitions/NailTechHelper.Data.Definitions.csproj"
+    },
+    "NailTechHelper.Data.Persistence/1.0.0": {
+      "type": "project",
+      "path": "../Data/NailTechHelper.Data.Persistence/NailTechHelper.Data.Persistence.csproj",
+      "msbuildProject": "../Data/NailTechHelper.Data.Persistence/NailTechHelper.Data.Persistence.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\Data\\NailTechHelper.Data.Persistence\\NailTechHelper.Data.Persistence.csproj",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.23",
-      "Microsoft.EntityFrameworkCore.Tools >= 3.1.23"
+      "Microsoft.EntityFrameworkCore.Tools >= 3.1.23",
+      "NailTechHelper.Data.Persistence >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5713,11 +5753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\NailTechHelper.EFCoreFramework\\NailTechHelper.EFCoreFramework.csproj",
+      "projectUniqueName": "C:\\Users\\hang2\\source\\repos\\NailTechHelperCloneFromGitHub\\NailTechHelper.EFCoreFramework\\NailTechHelper.EFCoreFramework.csproj",
       "projectName": "NailTechHelper.EFCoreFramework",
-      "projectPath": "C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\NailTechHelper.EFCoreFramework\\NailTechHelper.EFCoreFramework.csproj",
+      "projectPath": "C:\\Users\\hang2\\source\\repos\\NailTechHelperCloneFromGitHub\\NailTechHelper.EFCoreFramework\\NailTechHelper.EFCoreFramework.csproj",
       "packagesPath": "C:\\Users\\hang2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\NailTechHelper.EFCoreFramework\\obj\\",
+      "outputPath": "C:\\Users\\hang2\\source\\repos\\NailTechHelperCloneFromGitHub\\NailTechHelper.EFCoreFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -5739,8 +5779,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\Data\\NailTechHelper.Data.Persistence\\NailTechHelper.Data.Persistence.csproj": {
-              "projectPath": "C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\Data\\NailTechHelper.Data.Persistence\\NailTechHelper.Data.Persistence.csproj"
+            "C:\\Users\\hang2\\source\\repos\\NailTechHelperCloneFromGitHub\\Data\\NailTechHelper.Data.Persistence\\NailTechHelper.Data.Persistence.csproj": {
+              "projectPath": "C:\\Users\\hang2\\source\\repos\\NailTechHelperCloneFromGitHub\\Data\\NailTechHelper.Data.Persistence\\NailTechHelper.Data.Persistence.csproj"
             }
           }
         }
@@ -5787,16 +5827,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\Data\\NailTechHelper.Data.Persistence\\NailTechHelper.Data.Persistence.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\Data\\NailTechHelper.Data.Persistence\\NailTechHelper.Data.Persistence.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\Data\\NailTechHelper.Data.Definitions\\NailTechHelper.Data.Definitions.csproj": {}
+    "C:\\Users\\hang2\\source\\repos\\NailTechHelperCloneFromGitHub\\Data\\NailTechHelper.Data.Definitions\\NailTechHelper.Data.Definitions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\Data\\NailTechHelper.Data.Definitions\\NailTechHelper.Data.Definitions.csproj": {
+    "C:\\Users\\hang2\\source\\repos\\NailTechHelperCloneFromGitHub\\Data\\NailTechHelper.Data.Definitions\\NailTechHelper.Data.Definitions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\Data\\NailTechHelper.Data.Definitions\\NailTechHelper.Data.Definitions.csproj",
+        "projectUniqueName": "C:\\Users\\hang2\\source\\repos\\NailTechHelperCloneFromGitHub\\Data\\NailTechHelper.Data.Definitions\\NailTechHelper.Data.Definitions.csproj",
         "projectName": "NailTechHelper.Data.Definitions",
-        "projectPath": "C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\Data\\NailTechHelper.Data.Definitions\\NailTechHelper.Data.Definitions.csproj",
+        "projectPath": "C:\\Users\\hang2\\source\\repos\\NailTechHelperCloneFromGitHub\\Data\\NailTechHelper.Data.Definitions\\NailTechHelper.Data.Definitions.csproj",
         "packagesPath": "C:\\Users\\hang2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hang2\\source\\repos\\NailTechHelperClone\\NailTechHelper\\Data\\NailTechHelper.Data.Definitions\\obj\\",
+        "outputPath": "C:\\Users\\hang2\\source\\repos\\NailTechHelperCloneFromGitHub\\Data\\NailTechHelper.Data.Definitions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
