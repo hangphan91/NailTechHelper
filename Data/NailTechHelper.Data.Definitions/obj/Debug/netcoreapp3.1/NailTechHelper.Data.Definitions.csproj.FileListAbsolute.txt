@@ -1,0 +1,13 @@
+C:\Users\hang2\source\repos\NailTechHelper\Data\NailTechHelper.Data.Definitions\bin\Debug\netcoreapp3.1\NailTechHelper.Data.Definitions.deps.json
+C:\Users\hang2\source\repos\NailTechHelper\Data\NailTechHelper.Data.Definitions\bin\Debug\netcoreapp3.1\NailTechHelper.Data.Definitions.dll
+C:\Users\hang2\source\repos\NailTechHelper\Data\NailTechHelper.Data.Definitions\bin\Debug\netcoreapp3.1\NailTechHelper.Data.Definitions.pdb
+C:\Users\hang2\source\repos\NailTechHelper\Data\NailTechHelper.Data.Definitions\obj\Debug\netcoreapp3.1\NailTechHelper.Data.Definitions.AssemblyInfoInputs.cache
+C:\Users\hang2\source\repos\NailTechHelper\Data\NailTechHelper.Data.Definitions\obj\Debug\netcoreapp3.1\NailTechHelper.Data.Definitions.AssemblyInfo.cs
+C:\Users\hang2\source\repos\NailTechHelper\Data\NailTechHelper.Data.Definitions\obj\Debug\netcoreapp3.1\NailTechHelper.Data.Definitions.csproj.CoreCompileInputs.cache
+C:\Users\hang2\source\repos\NailTechHelper\Data\NailTechHelper.Data.Definitions\obj\Debug\netcoreapp3.1\staticwebassets\NailTechHelper.Data.Definitions.StaticWebAssets.Manifest.cache
+C:\Users\hang2\source\repos\NailTechHelper\Data\NailTechHelper.Data.Definitions\obj\Debug\netcoreapp3.1\staticwebassets\NailTechHelper.Data.Definitions.StaticWebAssets.xml
+C:\Users\hang2\source\repos\NailTechHelper\Data\NailTechHelper.Data.Definitions\obj\Debug\netcoreapp3.1\scopedcss\bundle\NailTechHelper.Data.Definitions.styles.css
+C:\Users\hang2\source\repos\NailTechHelper\Data\NailTechHelper.Data.Definitions\obj\Debug\netcoreapp3.1\NailTechHelper.Data.Definitions.RazorTargetAssemblyInfo.cache
+C:\Users\hang2\source\repos\NailTechHelper\Data\NailTechHelper.Data.Definitions\obj\Debug\netcoreapp3.1\NailTechHelper.Data.Definitions.dll
+C:\Users\hang2\source\repos\NailTechHelper\Data\NailTechHelper.Data.Definitions\obj\Debug\netcoreapp3.1\NailTechHelper.Data.Definitions.pdb
+C:\Users\hang2\source\repos\NailTechHelper\Data\NailTechHelper.Data.Definitions\obj\Debug\netcoreapp3.1\NailTechHelper.Data.Definitions.csprojAssemblyReference.cache
